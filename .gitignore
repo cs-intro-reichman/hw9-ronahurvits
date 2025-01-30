@@ -63,3 +63,4 @@ dist/
 *.temp
 *.cache
 *.lock
+.history/
